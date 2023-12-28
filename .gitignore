@@ -1,0 +1,12 @@
+# Portable Network Graphics
+*.png
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Other common ignores
+.DS_Store
+.env
